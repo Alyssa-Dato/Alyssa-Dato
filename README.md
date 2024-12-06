@@ -29,7 +29,7 @@ New Era University
 **Tools:**
 - Lucidchart
 - Jaspersoft Studio
-- Eclipes
+- Eclipse
 - HTML
 
 
