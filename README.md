@@ -1,12 +1,10 @@
-## 👋 Hi! I am Alyssa Mae M. Dato
+# 👋 Hi! I am Alyssa Mae M. Dato
 
 **🎓Education:** 
 --- 
-
-# BS Computer Science
+**BS Computer Science**
 New Era University
 2022-Present
-
 
 **📜Certification:** 
 ---
@@ -14,15 +12,14 @@ New Era University
 
 **💻Skillset:** 
 ---
-Programming:
-
+**Programming:**
 Java
 Javascript
-Databases:
 
+**Databases:**
 IBM DB2 Cloud
-Tools:
 
+**Tools:**
 Lucidchart
 Jaspersoft Studio
 Eclipse
