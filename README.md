@@ -2,21 +2,28 @@
 
 **🎓Education:** 
 --- 
+
 **BS Computer Science**
+
 New Era University
+
 2022-Present
 
 **📜Certification:** 
 ---
+
 [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a12352b147604f28bf742df4578a3a0e)
 
 **💻Skillset:** 
 ---
 **Programming:**
+
 Java
+
 Javascript
 
 **Databases:**
+
 IBM DB2 Cloud
 
 **Tools:**
