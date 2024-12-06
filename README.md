@@ -1,33 +1,33 @@
 # 👋 Hi! I am Alyssa Mae M. Dato
+---
+## 🎓Education:
 
-**🎓Education:** 
---- 
-
-**BS Computer Science**
-
-New Era University
-
+**BS Information Technology**  
+New Era University  
 2023-Present
 
-**📜Certification:** 
 ---
 
-[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a12352b147604f28bf742df4578a3a0e)
+## 📜Certification:
 
-**💻Skillset:** 
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a12352b147604f28bf742df4578a3a0e)
+
 ---
+
+## 💻Skillset:
+
 **Programming:**
-•Java
-•Javascript
+- Java
+- JavaScript
 
 **Databases:**
-•IBM DB2 Cloud
+- IBM DB2 Cloud
 
 **Tools:**
-•Lucidchart
-•Jaspersoft Studio
-•Eclipse
-•HTML
+- Lucidchart
+- Jaspersoft Studio
+- Eclipes
+- HTML
 
 
 <!--
