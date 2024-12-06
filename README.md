@@ -7,7 +7,7 @@
 
 New Era University
 
-2022-Present
+2023-Present
 
 **📜Certification:** 
 ---
@@ -17,20 +17,17 @@ New Era University
 **💻Skillset:** 
 ---
 **Programming:**
-
-Java
-
-Javascript
+•Java
+•Javascript
 
 **Databases:**
-
-IBM DB2 Cloud
+•IBM DB2 Cloud
 
 **Tools:**
-Lucidchart
-Jaspersoft Studio
-Eclipse
-HTML
+•Lucidchart
+•Jaspersoft Studio
+•Eclipse
+•HTML
 
 
 <!--
