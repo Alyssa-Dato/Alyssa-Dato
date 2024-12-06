@@ -1,17 +1,27 @@
-## Hi there 👋 I am Dato Alyssa Mae M. A
+## 👋 Hi! I am Alyssa Mae M. Dato
 
-**Education:** 
-
-
+**🎓Education:** 
 --- 
-**Certification:** 
 
--[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a12352b147604f28bf742df4578a3a0e)
-
--Oracle
-
+**📜Certification:** 
 ---
-**Skillset:** 
+[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/a12352b147604f28bf742df4578a3a0e)
+
+**💻Skillset:** 
+---
+Programming:
+
+Java
+Javascript
+Databases:
+
+IBM DB2 Cloud
+Tools:
+
+Lucidchart
+Jaspersoft Studio
+Eclipse
+HTML
 
 
 <!--
